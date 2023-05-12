@@ -10,7 +10,6 @@
 		"memory": "4gb",
 		"storage": "32gb"
 	},
-	"workspaceFolder": "/",
 
 	// Use 'mounts' to make the cargo cache persistent in a Docker Volume.
 	// "mounts": [
