@@ -1,5 +1,5 @@
 # Rust-codespace
-A beginner-friendly codespace template for writing writing rust programs.
+A beginner-friendly codespace template for writing writing rust programs adapted from [here](https://github.com/devcontainers/templates/tree/main/src/rust).
 
 # Setup
 1. Make sure you have a github account and you are signed in.
